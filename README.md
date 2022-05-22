@@ -2,7 +2,7 @@
     <img src=".github/cover.png" width=60%/>
 </p>
 <p align="center">
-    <a>List contains information about inlinable optimizations in Swift.s</a>
+    <a>List contains information about inlinable optimizations in Swift</a>
 </p>
 
 ## WWDC
