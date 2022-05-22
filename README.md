@@ -24,3 +24,4 @@
 - [Swift - map function](https://github.com/apple/swift/blob/main/stdlib/public/core/Map.swift) by Apple
 - [RxSwift - Atomic implimentation](https://github.com/ReactiveX/RxSwift/blob/1a1fa37b0d08e0f99ffa41f98f340e8bc60c35c4/Platform/AtomicInt.swift)
 - [BetterCodable - LosslessValue (nested functions)](https://github.com/marksands/BetterCodable/blob/master/Sources/BetterCodable/LosslessValue.swift)
+- [SwiftBinding (TensorFlow)](https://github.com/tensorflow/swift-bindings/blob/main/EagerExecution.swift.gyb)
