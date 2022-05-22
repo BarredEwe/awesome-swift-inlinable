@@ -13,6 +13,7 @@
 - [The Forbidden @inline Attribute in Swift](https://swiftrocks.com/the-forbidden-inline-attribute-in-swift)
 - [What is the advantage of saying your function should never be inlined?](https://catwolf.org/qs?id=dc4e5152-34f1-4c12-9ae7-a0ae7b21b76d&x=y)
 - [Cross-module inlining and specialization](https://github.com/apple/swift-evolution/blob/master/proposals/0193-cross-module-inlining-and-specialization.md)
+- [Swift Binary Optimizations](https://medium.com/@aslanyanhaik/swift-binary-optimizations-c13683d189fa)
 
 ## Discussions
 - [Effect of @inline(…) on nested functions](https://forums.swift.org/t/effect-of-inline-on-nested-functions/50202)
