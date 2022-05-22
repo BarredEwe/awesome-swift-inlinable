@@ -15,6 +15,7 @@
 - [Cross-module inlining and specialization](https://github.com/apple/swift-evolution/blob/master/proposals/0193-cross-module-inlining-and-specialization.md)
 - [Swift Binary Optimizations](https://medium.com/@aslanyanhaik/swift-binary-optimizations-c13683d189fa)
 - [Wikipedia - Inline function](https://en.wikipedia.org/wiki/Inline_function)
+- [Optimization Tips](https://jdiaz.fr/swift/optimization-tips.html)
 
 ## Discussions
 - [Effect of @inline(…) on nested functions](https://forums.swift.org/t/effect-of-inline-on-nested-functions/50202)
