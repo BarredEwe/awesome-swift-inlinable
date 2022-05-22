@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".github/cover.png"/>
+    <img src=".github/cover.png" width=60%/>
 </p>
 <p align="center">
     <a>List contains information about inlinable optimizations in Swift</a>
